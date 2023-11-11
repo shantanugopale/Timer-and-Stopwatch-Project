@@ -11,7 +11,7 @@ Welcome to the Timer-and-Stopwatch-Project developed during my internship at Cod
 
 ## Demo
 
-Check out the [Live Demo]() to see the To Do List in Action.
+Check out the [Live Demo](https://shantanugopale.github.io/Timer-and-Stopwatch-Project/) to see the To Do List in Action.
 
 ## Getting Involved
 
